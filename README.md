@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E7D,50:FF7A59,100:FF5252&height=220&section=header&text=Salimat%20Saeed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Clean%20%26%20Responsive%20Web%20Experiences&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E7D,50:C084FC,100:7C3AED&height=220&section=header&text=Salimat%20Saeed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Crafting%20Modern%20Web%20Experiences&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION -->
 <picture>
@@ -174,7 +174,7 @@ const salimat: DeveloperProfile = {
 <div align="center">
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5252,50:FF7A59,100:FF9E7D&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C084FC,100:FF9E7D&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
 
 <p>
   <sub>Designed & built with precision by <strong>Salimat Saeed</strong> • Focused on clean code & modern UI</sub>
