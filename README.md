@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E7D,50:FF7A59,100:FF5252&height=220&section=header&text=Salimat%20Saeed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20Software%20Architect%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E7D,50:FF7A59,100:FF5252&height=220&section=header&text=Salimat%20Saeed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Clean%20%26%20Responsive%20Web%20Experiences&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=FF9E7D&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Senior+Full-Stack+Engineer+%26+Architect;%E2%9C%A8+Crafting+Intuitive+%26+Scalable+Digital+Experiences;%E2%9A%A1+Building+High-Performance+Web+Applications;%F0%9F%9A%80+Core+Developer+%40+StormSale;%F0%9F%94%92+Passionate+About+Clean+Code+%26+Security" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=FF7A59&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Senior+Full-Stack+Engineer+%26+Architect;%E2%9C%A8+Crafting+Intuitive+%26+Scalable+Digital+Experiences;%E2%9A%A1+Building+High-Performance+Web+Applications;%F0%9F%9A%80+Core+Developer+%40+StormSale;%F0%9F%94%92+Passionate+About+Clean+Code+%26+Security" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=FF9E7D&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Senior+Full-Stack+Engineer+%26+Architect;%E2%9C%A8+Crafting+Intuitive+%26+Scalable+Digital+Experiences;%E2%9A%A1+Building+High-Performance+Web+Applications;%F0%9F%9A%80+Core+Developer+%40+StormSale;%F0%9F%94%92+Passionate+About+Clean+Code+%26+Security" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=FF9E7D&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Frontend+Web+Developer;%E2%9C%A8+Crafting+Responsive+%26+Modern+User+Interfaces;%F0%9F%8E%A8+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;%F0%9F%9A%80+Passionate+About+Clean+Code+%26+UI+Aesthetics;%E2%9A%A1+Constantly+Building+%26+Leveling+Up" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=FF7A59&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Frontend+Web+Developer;%E2%9C%A8+Crafting+Responsive+%26+Modern+User+Interfaces;%F0%9F%8E%A8+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;%F0%9F%9A%80+Passionate+About+Clean+Code+%26+UI+Aesthetics;%E2%9A%A1+Constantly+Building+%26+Leveling+Up" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=FF9E7D&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Frontend+Web+Developer;%E2%9C%A8+Crafting+Responsive+%26+Modern+User+Interfaces;%F0%9F%8E%A8+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;%F0%9F%9A%80+Passionate+About+Clean+Code+%26+UI+Aesthetics;%E2%9A%A1+Constantly+Building+%26+Leveling+Up" />
 </picture>
 
 <br/>
@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9E7D&color=0D1117" alt="Email" />
 </a>
 &nbsp;
-<a href="https://github.com/StormSale" target="_blank">
-  <img src="https://img.shields.io/badge/StormSale-0D1117?style=for-the-badge&logo=rocket&logoColor=FF7A59&color=0D1117" alt="StormSale" />
+<a href="https://github.com/saeedsalimat63" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF7A59&color=0D1117" alt="GitHub Profile" />
 </a>
 
 </div>
@@ -55,80 +55,52 @@
 interface DeveloperProfile {
   name: string;
   role: string;
-  ventures: string[];
   contact: {
     github: string;
     email: string;
   };
-  coreDisciplines: string[];
-  techArsenal: string[];
-  ideAndTools: string[];
+  coreSkills: string[];
+  techStack: string[];
+  tools: string[];
   engineeringMission: string;
   funFact: string;
 }
 
 const salimat: DeveloperProfile = {
   name: "Salimat Saeed",
-  role: "Senior Full-Stack Developer & Software Architect",
-  ventures: ["Core Developer @ StormSale 🚀"],
+  role: "Frontend Web Developer",
   contact: {
     github: "https://github.com/saeedsalimat63",
     email: "saeedsalimat63@gmail.com"
   },
-  coreDisciplines: [
-    "Enterprise Full-Stack Architecture & Microservices",
-    "Modern Reactive User Interfaces & Design Systems",
-    "High-Performance REST & GraphQL Backend APIs",
-    "Cybersecurity, Clean Code & Test-Driven Development"
+  coreSkills: [
+    "Semantic, accessible, and SEO-friendly HTML5 structure",
+    "Modern, responsive, and mobile-first CSS3 layouts (Flexbox & Grid)",
+    "Interactive, modular, and dynamic JavaScript (ES6+)",
+    "Fast, utility-first UI styling with Tailwind CSS",
+    "Version control workflows with Git & GitHub"
   ],
-  techArsenal: [
-    "TypeScript", "JavaScript", "React", "Next.js", "Node.js",
-    "Express", "PostgreSQL", "TailwindCSS", "Docker", "AWS", "Git"
-  ],
-  ideAndTools: ["VS Code", "Antigravity IDE", "Figma", "Postman", "Linux", "Git"],
-  engineeringMission: "Architect resilient, scalable, and beautifully designed digital infrastructure that delivers real-world impact.",
-  funFact: "Passionate about clean architecture, high performance & UI aesthetics 🎨💻⚡"
+  techStack: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+  tools: ["VS Code", "Git", "GitHub"],
+  engineeringMission: "Craft clean, responsive, and visually engaging web interfaces that deliver seamless user experiences.",
+  funFact: "Passionate about UI aesthetics, clean code, and leveling up my frontend craft daily 🎨💻⚡"
 };
 ```
 
 ---
 
-### 🚀 `> featured --initiatives`
+### 🛠️ `> tech --stack`
 
 <div align="center">
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **StormSale** | Scalable enterprise commerce platform and ecosystem | `TypeScript` `Next.js` `Tailwind` | [Explore ↗](https://github.com/StormSale/StormSale) |
-| **StormSale-backend** | High-performance backend API service and microservices | `Node.js` `Express` `PostgreSQL` | [Explore ↗](https://github.com/StormSale/StormSale-backend) |
-| **Storm-Contract** | Decentralized smart contracts and protocol infrastructure | `Solidity` `TypeScript` `Web3` | [Explore ↗](https://github.com/StormSale/Storm-Contract) |
-
-</div>
-
----
-
-### 🛠️ `> tech --stack --categorized`
-
-<div align="center">
-
-#### **Languages & Core Foundations**
+#### **Core Frontend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,php,solidity,bash,html,css&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" alt="Core Tech Stack" />
 </p>
 
-#### **Frontend Engineering & UI/UX**
+#### **Development Tools & Workflow**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma&theme=dark" alt="Frontend & Design" />
-</p>
-
-#### **Backend, APIs & Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgresql,firebase,mongodb,mysql,redis,graphql&theme=dark" alt="Backend & Databases" />
-</p>
-
-#### **DevOps, Cloud & Tooling**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode&theme=dark" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Developer Tools" />
 </p>
 
 </div>
@@ -142,7 +114,7 @@ const salimat: DeveloperProfile = {
     <img src="https://github-readme-stats-one.vercel.app/api?username=saeedsalimat63&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF9E7D&icon_color=FF7A59&text_color=E6EDF3&border_color=FF9E7D33" alt="GitHub Stats" width="48.5%" />
   </a>
   <a href="https://github.com/saeedsalimat63">
-    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=saeedsalimat63&layout=compact&hide_border=false&langs_count=8&bg_color=0D1117&title_color=FF9E7D&icon_color=FF7A59&text_color=E6EDF3&border_color=FF9E7D33" alt="Top Languages" width="48.5%" />
+    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=saeedsalimat63&layout=compact&hide_border=false&langs_count=6&bg_color=0D1117&title_color=FF9E7D&icon_color=FF7A59&text_color=E6EDF3&border_color=FF9E7D33" alt="Top Languages" width="48.5%" />
   </a>
 </div>
 
@@ -205,7 +177,7 @@ const salimat: DeveloperProfile = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5252,50:FF7A59,100:FF9E7D&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Banner" />
 
 <p>
-  <sub>Architected with precision by <strong>Salimat Saeed</strong> • Powered by clean design & robust code</sub>
+  <sub>Designed & built with precision by <strong>Salimat Saeed</strong> • Focused on clean code & modern UI</sub>
 </p>
 
 </div>
